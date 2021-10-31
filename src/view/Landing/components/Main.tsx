@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { PieChart } from 'react-minimal-pie-chart';
 
 interface Props {}
 
