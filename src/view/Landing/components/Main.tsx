@@ -100,8 +100,25 @@ const Main: React.FC<Props> = () => {
           <div className="iconbg"></div>
           <div className="iconborder"></div>
         </div>
+
+
+        <div className="iconOuter">
+          <div className="icon"><img src="img/ic/bscscan.png"/></div>
+          <div className="iconbg"></div>
+          <div className="iconborder"></div>
+        </div>
+        <div className="iconOuter">
+          <div className="icon"><img src="img/ic/pancake.png"/></div>
+          <div className="iconbg"></div>
+          <div className="iconborder"></div>
+        </div>
         <div className="iconOuter">
           <div className="icon">{cmc()}</div>
+          <div className="iconbg"></div>
+          <div className="iconborder"></div>
+        </div>
+        <div className="iconOuter">
+          <div className="icon"><img src="img/ic/coingecko.png"/></div>
           <div className="iconbg"></div>
           <div className="iconborder"></div>
         </div>

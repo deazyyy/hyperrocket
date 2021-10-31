@@ -37,7 +37,7 @@ On each BNB Hyper Rise token transaction, a 15% fee will be applied. This transa
     data-wow-duration="0.6s"
     data-wow-delay="0.3s">
           <div className="site-bx">
-            <h2>5% BNB Rewards</h2>
+            <h2>3% LIQUIDITY</h2>
             <h2>2% DEV / OWNER</h2> 
           </div>
         </div>

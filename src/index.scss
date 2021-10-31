@@ -336,6 +336,11 @@ section{
         font-size:14px;
         transition: all 0.3s ease;
       }
+      img{
+        height:16px;
+        width:auto;
+        image-rendering: pixelated;
+      }
     }
   }
   
