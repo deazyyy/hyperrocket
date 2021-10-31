@@ -16,7 +16,7 @@ const Tokenomicsaccordion: React.FC<Props> = () => {
     data-wow-duration="0.6s"
     data-wow-delay="0.3s">
           <div className="site-bx">
-            <h2 data-toggle="collapse" data-target="#acc1">
+            <h2 className="collapsed" data-toggle="collapse" data-target="#acc1">
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
@@ -51,7 +51,7 @@ const Tokenomicsaccordion: React.FC<Props> = () => {
     data-wow-duration="0.6s"
     data-wow-delay="0.6s">
           <div className="site-bx">
-            <h2 data-toggle="collapse" data-target="#acc2">
+            <h2 className="collapsed" data-toggle="collapse" data-target="#acc2">
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
@@ -85,7 +85,7 @@ const Tokenomicsaccordion: React.FC<Props> = () => {
     data-wow-duration="0.6s"
     data-wow-delay="0.9s">
           <div className="site-bx">
-            <h2 data-toggle="collapse" data-target="#acc3">
+            <h2 className="collapsed" data-toggle="collapse" data-target="#acc3">
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
