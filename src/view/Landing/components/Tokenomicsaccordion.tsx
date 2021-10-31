@@ -1,22 +1,29 @@
 import React, { useEffect } from "react";
 
-
 interface Props {}
 
 const Tokenomicsaccordion: React.FC<Props> = () => {
   return (
     <section className="tokenomicsaccordion-bx">
-      <div className="heading wow fadeInDown"
-    data-wow-duration="0.6s"
-    data-wow-delay="0.3s">
+      <div
+        className="heading wow fadeInDown"
+        data-wow-duration="0.6s"
+        data-wow-delay="0.3s"
+      >
         <h1>Tokenomics</h1>
       </div>
       <div className="row">
-        <div className="col-md-12 wow fadeInDown"
-    data-wow-duration="0.6s"
-    data-wow-delay="0.3s">
+        <div
+          className="col-md-12 wow fadeInDown"
+          data-wow-duration="0.6s"
+          data-wow-delay="0.3s"
+        >
           <div className="site-bx">
-            <h2 className="collapsed" data-toggle="collapse" data-target="#acc1">
+            <h2
+              className="collapsed"
+              data-toggle="collapse"
+              data-target="#acc1"
+            >
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
@@ -47,11 +54,17 @@ const Tokenomicsaccordion: React.FC<Props> = () => {
           </div>
         </div>
 
-        <div className="col-md-12 wow fadeInDown"
-    data-wow-duration="0.6s"
-    data-wow-delay="0.6s">
+        <div
+          className="col-md-12 wow fadeInDown"
+          data-wow-duration="0.6s"
+          data-wow-delay="0.6s"
+        >
           <div className="site-bx">
-            <h2 className="collapsed" data-toggle="collapse" data-target="#acc2">
+            <h2
+              className="collapsed"
+              data-toggle="collapse"
+              data-target="#acc2"
+            >
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
@@ -81,11 +94,17 @@ const Tokenomicsaccordion: React.FC<Props> = () => {
             </p>
           </div>
         </div>
-        <div className="col-md-12 wow fadeInDown"
-    data-wow-duration="0.6s"
-    data-wow-delay="0.9s">
+        <div
+          className="col-md-12 wow fadeInDown"
+          data-wow-duration="0.6s"
+          data-wow-delay="0.9s"
+        >
           <div className="site-bx">
-            <h2 className="collapsed" data-toggle="collapse" data-target="#acc3">
+            <h2
+              className="collapsed"
+              data-toggle="collapse"
+              data-target="#acc3"
+            >
               Where do I see my BNB rewards?{" "}
               <i className="fa fa-plus" aria-hidden="true"></i>
             </h2>
